@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Alternate website for hosting presentation slides and other materials
+Alternate website for hosting presentation slides and other materials.
