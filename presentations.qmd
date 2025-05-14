@@ -1,0 +1,7 @@
+---
+title: "presentations"
+---
+
+Slides for presentations
+
+[April 2024 talk at CopenhagenR - My Year of Riding Danishly](https://greg-dubrow.github.io/copenhagenR-April2024-slides/copenhagenR-April2024-slides.html)
