@@ -11,6 +11,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Alternate website for hosting presentation slides and other materials"
+    "text": "Alternate website for hosting presentation slides and other materials."
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slides for presentations\nApril 2024 talk at CopenhagenR - My Year of Riding Danishly"
   }
 ]
