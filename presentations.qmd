@@ -7,3 +7,5 @@ Slides for presentations
 [April 2024 talk at CopenhagenR - My Year of Riding Danishly](https://greg-dubrow.github.io/copenhagenR-April2024-slides/copenhagenR-April2024-slides.html)
 
 [May 2025 talk at CopenhagenR - Easy Social Sciences Data Analysis ](https://greg-dubrow.github.io/copenhagenR-May2025-slides/copenhagenR-May2025-slides.html)
+
+[September 2025 talk at Danish Data Science Academy: Data Science in Practice Session 3 ](https://greg-dubrow.github.io/DDSA_DataViz_Sept2025_slides/DDSA_DataViz_Sept2025_slides.html)
